@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\8aprel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|c:\\users\\hp\\desktop\\8aprel\\8aprel\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|solutionrelative:8aprel\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|c:\\users\\hp\\desktop\\8aprel\\8aprel\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|solutionrelative:8aprel\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|c:\\users\\hp\\desktop\\8aprel\\8aprel\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|solutionrelative:8aprel\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|c:\\users\\hp\\desktop\\8aprel\\8aprel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16771442-44E6-4CA9-A61F-FECC222B6F3C}|8aprel\\8aprel.csproj|solutionrelative:8aprel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Group.cs",
+              "RelativeDocumentMoniker": "8aprel\\Group.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Group.cs",
+              "RelativeToolTip": "8aprel\\Group.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwvzIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:43:12.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Student.cs",
+              "RelativeDocumentMoniker": "8aprel\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Student.cs",
+              "RelativeToolTip": "8aprel\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:41:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Helper.cs",
+              "RelativeDocumentMoniker": "8aprel\\Helper.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Helper.cs",
+              "RelativeToolTip": "8aprel\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:05:33.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Program.cs",
+              "RelativeDocumentMoniker": "8aprel\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\8aprel\\8aprel\\Program.cs",
+              "RelativeToolTip": "8aprel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:04:52.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
